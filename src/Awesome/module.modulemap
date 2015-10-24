@@ -1,0 +1,4 @@
+module Awesome {
+	requires cplusplus11
+	header "Awesome.hpp"
+}
